@@ -12,4 +12,6 @@ This can be deployed in web server or in local machine
 
 ## Author
 
+Krishna is the Author
+
 ## More Information
