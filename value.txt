@@ -9,5 +9,4 @@ Imagine an eccentric (and bored) tycoon offering you $10 million to play Russian
 i.e., to put a revolver containing one bullet in the six available chambers to your head and pull the trigger.
 Each realization would count as one history, for a total of six possible histories of equal probabilities.
 Five out of these six histories would lead to enrichment; one would lead to a statistic, that is, an obituary with an embarrassing (but certainly original) cause of death.
-
 This is new example for rebase
